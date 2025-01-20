@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>SDEV 153 MO1 Configure Static Website </title>
+        <script type="text/javascript">
+
+        </script>
+        <style type="text/css">
+
+        </style>
+        <!--
+        auhtor: Bryan Hernandez
+        assignment: Static Website
+        -->
+    </head>
+    <body>
+        <div>
+            <p>
+                <a href="https://ivylearn.ivytech.edu/courses/1325080/assignments/21445626"> MO1 - Pacific</a>
+            </p>
+        </div>
+    </body>
+</html>

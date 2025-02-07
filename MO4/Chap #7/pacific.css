@@ -32,6 +32,7 @@ body {
     background-color: #EAEAEA
     color #666666;
     font-family: Verdana, Arial, sans-serif;
+    color: #666666:
 }
 
 header {
@@ -61,7 +62,6 @@ h1 {
     font-size: 3em;
     letter-spacing: 0.25em;
     text-align: center;
-    padding-top: .5em;
 }
 
 nav {
